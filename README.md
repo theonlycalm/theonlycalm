@@ -9,5 +9,4 @@ Outside of code, you’ll find me watching anime, hitting the gym, playing guita
 Fun Facts:
 <ul>
   <li>A self-taught dev.</li>
-  <li>Demon Slayer is my favorite anime.</li>
 </ul>
