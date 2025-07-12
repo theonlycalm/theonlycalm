@@ -4,7 +4,7 @@ I’m [**Iush**](), a web design engineer based in Nepal.
 
 I love turning design ideas into lightning-fast, accessible interfaces that feel effortless.
 
-Outside of code, you’ll find me watching anime, hitting the gym, or playing guitar. I also enjoy writing [Poetry](https://www.tiktok.com/@theonlycalm?_t=ZS-8xufqSTT841&_r=1) and share some of them on social media.
+Outside of code & Figma, you’ll find me watching anime, hitting the gym, or playing guitar. I also enjoy writing [Poetry](https://www.tiktok.com/@theonlycalm?_t=ZS-8xufqSTT841&_r=1) and share some of them on social media.
 
 #### Fun Facts:
 
