@@ -8,7 +8,7 @@ Outside of code & Figma, you’ll find me watching anime, hitting the gym, or pl
 
 #### Fun Facts:
 
-* favorite debugging method is emotional support from ChatGPT.
+* My favorite debugging method is emotional support from ChatGPT.
 * I’m a self-taught dev who believes in *learning by doing* and *failing forward*.
 
 Feel free to connect with me on [Instagram](https://instagram.com/theonlycalm) or drop a message at **callmecalm0@gmail.com**
